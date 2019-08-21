@@ -9,6 +9,8 @@
 |-----------------|
 | [![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://www.tensorflow.org/api_docs/) |
 
+CI tester
+
 **TensorFlow** is an open source software library for numerical computation using
 data flow graphs.  The graph nodes represent mathematical operations, while
 the graph edges represent the multidimensional data arrays (tensors) that flow
